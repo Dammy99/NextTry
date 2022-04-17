@@ -1,0 +1,7 @@
+D:\ReposTrain\NextTry\NextTry\bin\Debug\NextTry.exe.config
+D:\ReposTrain\NextTry\NextTry\bin\Debug\NextTry.exe
+D:\ReposTrain\NextTry\NextTry\bin\Debug\NextTry.pdb
+D:\ReposTrain\NextTry\NextTry\obj\Debug\NextTry.csproj.AssemblyReference.cache
+D:\ReposTrain\NextTry\NextTry\obj\Debug\NextTry.csproj.CoreCompileInputs.cache
+D:\ReposTrain\NextTry\NextTry\obj\Debug\NextTry.exe
+D:\ReposTrain\NextTry\NextTry\obj\Debug\NextTry.pdb
